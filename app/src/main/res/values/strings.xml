@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="title_discover">Discover</string>
+    <string name="search">Search</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="today">Today</string>
+    <string name="trailer">Trailer</string>
+    <string name="bonus">Bonus</string>
+    <string name="title_my_shows">My Shows</string>
+    <string name="title_downloads">Downloads</string>
+    <string name="title_settings">Settings</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="contentDescription_author">Author</string>
+</resources>
